@@ -8,7 +8,7 @@
   <body>
   <h1>Reference Page</h1>
   <li>&lt;html&gt;</li>
-  <p>This tag tells the browser that this is an HTML document and represents the root of an HTML document. The &lt;html&gt; tag is the container for all other HTML elements (except for the <!DOCTYPE> tag). </p>
+  <p>This tag tells the browser that this is an HTML document and represents the root of an HTML document. The &lt;html&gt; tag is the container for all other HTML elements (except for the &lt;!DOCTYPE&gt; tag). </p>
   <li>&lt;head&gt;</li>
   <p>This tag is a container for all the head elements and can include a title for the document, scripts, styles, meta information, and more.</p>
   <li>&lt;title&gt;</li>
