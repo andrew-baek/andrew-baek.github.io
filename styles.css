@@ -1,0 +1,54 @@
+.myfstyle {
+  font-family: "Times New Roman", Times, serif;
+}
+
+body {
+  background-color: #ffb3b3;
+}
+
+h1 {
+  text-align: center;
+  border-style: solid;
+  width: 300px;
+  margin: auto;
+}
+  
+.tablestyle {
+  width: 100%;
+  background-color: white;
+}
+
+th, td {
+    text-align: center;
+}
+
+th {
+    background-color: Orange;
+    color: white;
+}
+
+tr:hover {background-color: pink}
+
+table, th, td {
+    border: 2px solid black;
+}
+
+li {
+  font-family: "Lucida Console", Monospace;
+}
+
+p {
+  font: 15px arial, sans-serif;;
+}
+
+h2 {
+  text-align: center;
+}  
+
+.elem-example {
+  background-color: white;
+}
+
+.elem-example p {
+  font-family: "Courier New", Sans-Serif;
+}
